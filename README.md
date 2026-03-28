@@ -1,0 +1,60 @@
+Olá, eu me chamo John Abner
+
+🎓 Estudante do 3º ano do ensino médio
+💻 Focado em desenvolvimento Java
+
+Atualmente estou estudando Programação Orientada a Objetos com Java e desenvolvendo projetos práticos para consolidar
+meus conhecimentos e conquistar minha primeira oportunidade como desenvolvedor.
+
+🧠 *Sobre mim*
+
+Sou um estudante dedicado à área de tecnologia, com foco em desenvolvimento back-end utilizando Java.
+Tenho uma base sólida em lógica de programação e estou evoluindo constantemente através de cursos e projetos próprios.
+
+Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática e crescer como desenvolvedor.
+
+ *Tecnologias que estou aprendendo:*
+☕ Java
+🧱 Programação Orientada a Objetos (POO)
+🔧 Git e GitHub
+💻 Lógica de programação
+🗄️ (em aprendizado) Banco de Dados
+📂 Projetos
+
+Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
+
+🔹 https://github.com/John-code273/ExercicioData-hora02
+
+Exercício prático em Java utilizando a API java.time, com foco em
+conversão, formatação e cálculos com data e hora.
+
+O que o programa faz:
+Lê uma data-hora em UTC (ISO 8601) Converte para o horário local,
+Formata as datas, Calcula: +2 horas +3 dias.
+
+🔹 [Nome do Projeto 2]
+
+Pequena descrição
+Exemplo: Aplicação simples para controle de gastos
+
+🔹 [Nome do Projeto 3]
+
+Pequena descrição
+Exemplo: Simulação de sistema bancário com classes e herança
+
+ *Objetivos*
+🚀 Conseguir minha primeira vaga de estágio como desenvolvedor Java
+📚 Aprofundar conhecimentos em back-end
+🏗️ Desenvolver projetos mais completos e reais
+
+ *Contatos*
+ Email: john.silvaromao@gmail.com
+ LinkedIn: linkedin.com/in/john-abner-287447314
+ GitHub: https://github.com/John-code273
+
+*Observação:*
+
+Este repositório faz parte da minha jornada de aprendizado.
+Estou constantemente evoluindo, então melhorias e novos projetos serão adicionados ao longo do tempo.
+
+💡 "Aprender programação é construir o futuro com código."
