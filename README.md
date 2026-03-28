@@ -47,12 +47,14 @@ Exemplo: Simulação de sistema bancário com classes e herança
 📚 Aprofundar conhecimentos em back-end
 🏗️ Desenvolver projetos mais completos e reais
 
- *Contatos*
+ ´´Contatos´´
  Email: john.silvaromao@gmail.com
- LinkedIn: linkedin.com/in/john-abner-287447314
+ 
+ LinkedIn: https://linkedin.com/in/john-abner-287447314
+ 
  GitHub: https://github.com/John-code273
 
-*Observação:*
+´´Observação:´´
 
 Este repositório faz parte da minha jornada de aprendizado.
 Estou constantemente evoluindo, então melhorias e novos projetos serão adicionados ao longo do tempo.
